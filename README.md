@@ -9,8 +9,9 @@ A comprehensive machine learning project analyzing and forecasting electricity c
 > *Can we forecast electricity demand using time series models?*
 
 ---
+<img src="[https://github.com/user-attachments/assets/dd04f810-2ce1-4311-8404-6ac89d66384e]" alt="Student_squirrel" width="400"/>
 
-<img src="[https://github.com/user-attachments/assets/ad82f7c9-d288-4307-9bb6-26dae963e4f6](https://github.com/user-attachments/assets/bc3a4961-e9ce-4fd3-9063-5012f5d10aa0)" alt="Student_squirrel" width="400"/>
+<img src="(https://github.com/user-attachments/assets/dd04f810-2ce1-4311-8404-6ac89d66384e)" alt="Student_squirrel" width="400"/>
 
 ---
 
