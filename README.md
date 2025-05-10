@@ -10,7 +10,7 @@ A comprehensive machine learning project analyzing and forecasting electricity c
 
 ---
 
-<img src="https://github.com/user-attachments/assets/ad82f7c9-d288-4307-9bb6-26dae963e4f6" alt="Student_squirrel" width="300"/>
+<img src="[https://github.com/user-attachments/assets/ad82f7c9-d288-4307-9bb6-26dae963e4f6](https://github.com/user-attachments/assets/bc3a4961-e9ce-4fd3-9063-5012f5d10aa0)" alt="Student_squirrel" width="400"/>
 
 ---
 
