@@ -6,7 +6,11 @@ A comprehensive machine learning project analyzing and forecasting electricity c
 
 ## 📌 Research Question
 
-> *Can we accurately forecast electricity demand using time series models?*
+> *Can we forecast electricity demand using time series models?*
+
+---
+
+![Student_squirrel](https://github.com/user-attachments/assets/ad82f7c9-d288-4307-9bb6-26dae963e4f6)
 
 ---
 
@@ -79,5 +83,5 @@ Electricity consumption in Germany from 2006 to 2018 (excluding 2018) shows a ti
 
 Future research could explore whether these models remain effective in contexts with more volatile or irregular consumption patterns, where prediction is more challenging.
 
-Thanks for reading — we hope this project offers valuable insights into forecasting and data-driven energy planning.
+Thanks for reading, hope this project offers valuable insights into forecasting and data-driven energy planning.
 
